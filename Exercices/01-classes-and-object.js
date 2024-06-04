@@ -9,7 +9,7 @@ Consignes
     Créez une instance de cette classe et initialisez ses attributs.
     Affichez les détails de la voiture.
 */
-
+'use strict';
 class Voiture {
     constructor(marque, modele, annee, couleur) {
         this.marque = marque;

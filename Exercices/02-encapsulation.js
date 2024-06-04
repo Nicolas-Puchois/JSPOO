@@ -9,6 +9,7 @@ Consignes
     Créer une instance de Voiture et modifiez en la couleur.
 */
 
+'use strict';
 class Voiture {
   #marque;
   #modele;
